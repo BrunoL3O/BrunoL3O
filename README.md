@@ -1,6 +1,6 @@
-Aspiring video-game / desktop application developer.
-C++ / C# enjoyer.
-Updates ranging anywhere from daily to 3-5 business years.
+- Aspiring video-game / desktop application developer.
+- C++ / C# enjoyer.
+- Updates ranging anywhere from daily to 3-5 business years.
 
 <!---
 BrunoL3O/BrunoL3O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
