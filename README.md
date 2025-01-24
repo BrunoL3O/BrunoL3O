@@ -1,5 +1,5 @@
-- Aspiring video-game / desktop application developer.
-- C++ / C# enjoyer.
+- Aspiring video-game & desktop application developer.
+- C++ / .NET / Node enjoyer.
 - Updates ranging anywhere from daily to 3-5 business years.
 
 <!---
