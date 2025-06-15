@@ -1,5 +1,5 @@
 - Aspiring video-game & desktop application developer.
-- C++ / .NET / Node enjoyer.
+- C / C++ / .NET enjoyer. Thinking of becoming !skill-issued in anything web/network related. 
 - Updates ranging anywhere from daily to 3-5 business years.
 
 <!---
